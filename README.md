@@ -1,4 +1,4 @@
 # AS-SLAM
-An active semantic SLAM, combining semantic mapping with autonomous exploration pursuing more rich and clearer semantic information.
-
+An active semantic SLAM integrates semantic mapping with autonomous exploration to capture richer and clearer semantic information in unknown environments.
+Code: TBD
 ![system overview](AS-SLAM.png "system overview")
